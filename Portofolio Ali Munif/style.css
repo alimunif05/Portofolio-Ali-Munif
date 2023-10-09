@@ -1,0 +1,28 @@
+body {
+    background-color: #9eddff;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #def9f5;
+}
+
+#proyek {
+    background-color: #def9f5;
+}
+
+#kontak {
+    background-color: #def9f5;
+}
+
+.textali {
+    text-decoration: none;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.kunjungi {
+    background-color: #6499E9;
+}

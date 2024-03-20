@@ -1,28 +1,44 @@
 body {
-    background-color: #9eddff;
+  background-color: #9eddff;
+}
+
+.text-navbar {
+  color: white;
 }
 
 .jumbotron {
-    padding-top: 3rem;
-    background-color: #def9f5;
+  padding-top: 3rem;
+  background-color: #def9f5;
 }
 
 #proyek {
-    background-color: #def9f5;
+  background-color: #def9f5;
 }
 
 #kontak {
-    background-color: #def9f5;
+  background-color: #def9f5;
 }
 
 .textali {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 section {
-    padding-top: 5rem;
+  padding-top: 5rem;
 }
 
-.kunjungi {
-    background-color: #6499E9;
+.kirim {
+  background-color: #6499e9;
+}
+
+.loading {
+  background-color: #6499e9;
+}
+
+.alert-success {
+  background-color: #abf19f;
+}
+
+.btn-primary {
+  background-color: #6499e9;
 }
